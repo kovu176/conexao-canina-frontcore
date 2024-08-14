@@ -1,1 +1,1 @@
-# conexao-canina-cors
+# conexao-canina-frontcore
